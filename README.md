@@ -1,12 +1,9 @@
 # Google Software Product Sprint
 
-This repo contains Yilin's portfolio and SPS projects.
+This repo a summary of SPS program team #16.
 
-To get started:
-
-- Login to [Google Cloud Shell](https://ssh.cloud.google.com/cloudshell/editor)
-- Clone this repo: `cd; git clone https://github.com/google/software-product-sprint.git`
-- Open the GitHub setup walkthrough: `teachme ~/software-product-sprint/walkthroughs/week-0-setup/github-setup-walkthrough.md`
-  - If the tutorial panel does not open or display the walkthrough contents, try refreshing the page.
-
-Then follow the on-screen instructions to set up your repo.
+The Github repositories of Team #16:
+- Qingyi: https://github.com/FlazeNaive/software-product-sprint
+- Ruiyan: https://github.com/ruiyuanqian/my-portfolio
+- Yanqiong: https://github.com/Reise-rm/software-product-sprint
+- Yiran: https://github.com/kblackcn/google-sps-my-portfolio
